@@ -1,6 +1,6 @@
 # responsive_design_challenges
 
-- Challenge 1 - Responsive Layout: In this challenge I created a grid layout with 3 columns and 4 rows. This made it much easier to work with by setting out each cell to an attribute. 
+- Challenge 1 - Responsive Layout: In this challenge I created a grid layout with 3 columns and 4 rows once in responsive mode the rows increases to 7 rows. This made it much easier to work with by setting out each cell to an attribute. By creating a grid layout it helped to make the responsiveness much easier and simpler
 - Challenge 2 - Responsive Layout 2: 
 - Challenge 3 - Responsive Layout 3: 
 
@@ -28,7 +28,7 @@ git pull
 
 ## Live Link
 
--  
+-  https://ismet94.github.io/responsive_design_challenges/
 
 ## Prevalent Technologies Used
 
